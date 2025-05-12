@@ -1,77 +1,82 @@
+# 📚 Capstone Projects Portfolio
 
-# 💼 IntelliPaat Capstone Projects Collection 🚀
-
-Welcome to my collection of capstone projects completed as part of the IntelliPaat Data Science & Business Intelligence program. Each project tackles real-world problems with practical datasets and impactful visualizations. 📈📊
-
----
-
-## 🛒 Walmart Sales Forecasting Capstone
-
-📁 Folder: `/capstone-walmart`
-
-🔍 Objective: Build a forecasting model to predict sales at Walmart stores using machine learning techniques.
-
-📌 Highlights:
-- Time Series Forecasting (SARIMA, Prophet)
-- Feature Engineering & EDA
-- Sales impact analysis by holidays and regions
-- 📊 Power BI dashboard for executive summary
-
-📷 Screenshots:
-![Walmart Dashboard](images/walmart-dashboard.png)
+Welcome to my GitHub repository containing a collection of capstone projects 🧑‍💻 I've worked on as part of my data analytics and business intelligence journey.
 
 ---
 
-## 🎬 Netflix User Analytics Capstone
+## 🛒 Walmart Sales Analysis (Power BI Capstone)
 
-📁 Folder: `/capstone-netflix`
+🔍 Objective: Analyze Walmart store sales data to identify seasonal trends, regional performance, and marketing insights.
 
-🔍 Objective: Analyze Netflix user behavior and viewing trends to drive content recommendations.
+📊 Tools: Power BI, DAX, Excel
 
-📌 Highlights:
-- Python 🐍 based data wrangling & analysis
-- Clustering & Collaborative Filtering models
-- Genre vs Watch-time heatmaps
-- 📈 Power BI + Tableau dashboards
+📁 Files:
+- Walmart_Sales.pbix
+- Data Cleaning Steps (.xlsx)
+- Report Screenshots
 
-📷 Screenshots:
-![Netflix Viz](images/netflix-viz.png)
-
----
-
-## 📊 Power BI Superstore Capstone
-
-📁 Folder: `/capstone-powerbi-superstore`
-
-🔍 Objective: Business performance analysis of Superstore dataset using Power BI.
-
-📌 Highlights:
-- DAX Calculations & Measures
-- KPI Cards & Advanced Charting
-- Drill-down & Slicers
-- Custom visuals & storytelling with bookmarks
-
-📷 Screenshots:
-![Superstore Report](images/superstore-dashboard.png)
+📎 Key Features:
+- Dynamic dashboards with slicers
+- Store-wise and department-wise analysis
+- Sales forecasting visuals
 
 ---
 
-## 🦠 Covid-19 Global Impact Analysis
+## 🎬 Netflix Data Analysis (Capstone Project)
 
-📁 Folder: `/capstone-covid19`
+🔍 Objective: Perform EDA on Netflix’s movie and TV series dataset to find trends, genre popularity, and content rating distribution.
 
-🔍 Objective: Understand the spread and containment efforts of Covid-19 using data visualization.
+📊 Tools: Python (Pandas, Matplotlib, Seaborn), Jupyter
 
-📌 Highlights:
-- Data from WHO and John Hopkins University
-- Country-wise case trends 🌍
-- Vaccination distribution heatmap 🌡️
-- Interactive dashboard using Power BI & Tableau
+📁 Files:
+- netflix_analysis.ipynb
+- netflix_titles.csv
+- Plots & Insights
 
-📷 Screenshots:
-![Covid Dashboard](images/covid-dashboard.png)
+📎 Key Features:
+- Top genres and countries producing content
+- Trend of content release over the years
+- Filtering by rating and duration
 
 ---
 
-## 📦 Folder Structure
+## 💼 Power BI Portfolio Dashboard (Capstone Project)
+
+🔍 Objective: Build a Power BI portfolio dashboard displaying various metrics across projects, skills, and tools used.
+
+📊 Tools: Power BI, DAX, Power Query
+
+📁 Files:
+- Portfolio_Dashboard.pbix
+- DataSource.xlsx
+- Skill Cards Visuals
+
+📎 Key Features:
+- Interactive skill matrix
+- Certification tracker
+- Project timelines with Gantt chart
+
+---
+
+## 🦠 COVID-19 Global Impact Analysis
+
+🔍 Objective: Analyze the impact of COVID-19 across countries with visualization on death rates, recoveries, and vaccine distribution.
+
+📊 Tools: Power BI / Tableau / Python (Altair, Plotly)
+
+📁 Files:
+- covid_dashboard.pbix or covid19_analysis.ipynb
+- OWID-COVID-data.csv
+- Dashboard Screenshots
+
+📎 Key Features:
+- Country-wise filterable reports
+- Time-series analysis of confirmed cases
+- Vaccine administration comparison
+
+---
+
+🔗 Let’s Connect  
+📧 Email: yourname@email.com  
+💼 LinkedIn: https://linkedin.com/in/yourprofile  
 
