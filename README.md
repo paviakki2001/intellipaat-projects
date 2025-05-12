@@ -77,6 +77,6 @@ Welcome to my GitHub repository containing a collection of capstone projects �
 ---
 
 🔗 Let’s Connect  
-📧 Email: yourname@email.com  
-💼 LinkedIn: https://linkedin.com/in/yourprofile  
+📧 Email: pavijanu2001@gmail.com 
+💼 LinkedIn:https://www.linkedin.com/in/pavithra-veerapathiran-949403274
 
